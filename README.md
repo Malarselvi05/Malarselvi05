@@ -23,7 +23,7 @@ An enterprise-grade AI workflow automation platform (similar to n8n). Features v
 🕸️ **[Web Crawler Chatbot](https://github.com/Malarselvi05/Web-crawler-chatbot)** 
 An offline AI chatbot built with Flask and FAISS that uses local open-source models (Llama 3/Mistral via Ollama) to answer questions based on custom web-crawled data.
 
-📈 **[SEO Optimization Analyzer](https://github.com/Malarselvi05/SEO-optimization)**
+📈 **[SEO Optimization Analyzer](https://github.com/Malarselvi05/SEO-optimization-tool)**
 An automated Python tool utilizing GPT-4o to analyze targeted metadata, crawl competitor sites, and generate data-driven SEO strategies in Excel and PDF formats.
 
 ---
