@@ -14,8 +14,11 @@ I'm an aspiring **AI Engineer** and **Data Analyst** who loves building intellig
 
 ### 🌟 Highlighted Projects
 
-🏆 **[AI Image Risk Assessment & Detector](https://github.com/Malarselvi05/ai-image-fraud-detection-system))** *(My Best Work!)*
+🏆 **[AI Image Risk Assessment & Detector](https://github.com/Malarselvi05/ai-image-fraud-detection-system)** *(My Best Work!)*
 A comprehensive AI-driven moderation system built to classify and assess the risk of submitted images. It features a full administrative dashboard with manual review queues, real-time metrics, cybersecurity-focused aesthetics, and interactive approval/rejection workflows in the backend.
+
+🥇 **[SurgicalAI — AI Arthroscopic Performance Evaluator](https://github.com/Malarselvi05/Surgical-AI)** *(1st Prize Winner — Medathon 2026)*
+An advanced Computer Vision system that transforms raw surgical recordings into objective, ASSET-aligned performance data. Features real-time instrument tracking, automated hospital-grade PDF reporting, and phase-aware skill classification. Secured **1st Prize** at Ceaser's Medathon 2026.
 
 🚀 **[WorkLine AI (Work In Progress)](https://github.com/Malarselvi05/Workline-AI-)** *(Current Project)*
 An enterprise-grade AI workflow automation platform (similar to n8n). Features vertical domain-specific implementation blocks, transparent AI reasoning, JWT-based role access control (RBAC), and robust data parsing and transformation mechanisms.
